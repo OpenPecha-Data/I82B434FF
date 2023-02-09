@@ -1,0 +1,35 @@
+id: 0ea8d1dc4b614b63ab4defc1f99a7ed8
+annotation_type: index
+revision: '00001'
+annotations:
+  ded95787dbb54a159c09a765dce52230:
+    base: 42F7.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 10
+    - title: Preface
+      span:
+        start: 11
+        end: 119
+    - title: Chapters 1-10
+      span:
+        start: 120
+        end: 16008
+    - title: Chapters 11-20
+      span:
+        start: 16009
+        end: 31481
+    - title: Chapters 21-26
+      span:
+        start: 31482
+        end: 46503
+    - title: Colophon
+      span:
+        start: 46504
+        end: 46529
+    - title: Additional verses not in the Pāli edition
+      span:
+        start: 46530
+        end: 46562

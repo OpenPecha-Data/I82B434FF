@@ -1,0 +1,16 @@
+id: I82B434FF
+default_language: pi
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-10 00:37:31.892272
+last_modified: 2023-02-10 00:37:31.892413
+source_metadata:
+  title: Dhammapada
+  language: pi
+bases:
+  42F7:
+    base_file: 42F7.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
